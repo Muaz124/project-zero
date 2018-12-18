@@ -1,0 +1,18 @@
+.menu{
+  display: flex;
+  list-style: none;
+}
+
+.menu li{
+  margin-right: 20px;
+  font-weight: bold;
+}
+
+.inhoud{
+  display: flex;
+  list-style: none;
+}
+
+.inhoud li{
+  margin-right: 20px;
+}
