@@ -1,9 +1,9 @@
 .menu{
-  display: flex;
   list-style: none;
+  display: flex;
 }
 
-.menu li{
+.menu li {
   margin-right: 20px;
   font-weight: bold;
 }
@@ -13,6 +13,5 @@
   list-style: none;
 }
 
-.inhoud li{
+.inhoud li {
   margin-right: 20px;
-}
