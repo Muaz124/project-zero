@@ -3,17 +3,17 @@
   display: flex;
 }
 
-.menu li {
+.menu li{
   margin-right: 20px;
   font-weight: bold;
 }
 
-.inhoud{
+.inhoud
   display: flex;
   list-style: none;
 }
 
-.inhoud li {
+.inhoud li{
   margin-right: 20px;
 }
 
