@@ -4,20 +4,45 @@
 }
 
 .menu li{
-  margin-right: 20px;
-  font-weight: bold;
-}
-
-.inhoud
-  display: flex;
-  list-style: none;
-}
-
-.inhoud li{
-  margin-right: 20px;
+  margin-right: 150px;
+  font-weight: bold
 }
 
 body {
   background-image: url("newyorkskyline.jpg");
-  background-size: 1600px 800px;
+  background-size: 1600px 865px;
+}
+body {
+  font-size: 28px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: green;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: black;
+}
+
+.actief {
+  background-color: black;
 }
