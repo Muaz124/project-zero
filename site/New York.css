@@ -4,7 +4,7 @@
 }
 
 .menu li{
-  margin-right: 150px;
+  margin-right: 50px;
   font-weight: bold
 }
 
@@ -16,13 +16,14 @@ body {
   font-size: 28px;
 }
 
+
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: green;
-  position: -webkit-sticky; /* Safari */
+  position: -webkit-sticky;
   position: sticky;
   top: 0;
 }
