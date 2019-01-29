@@ -43,3 +43,10 @@ li a:hover {
 .actief {
   background-color: black;
 }
+.box {
+  background-color: blue;
+  width: 700px;
+  padding: 5px;
+  text-align:center;
+ margin-left: 350px;
+}
